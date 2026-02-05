@@ -1,0 +1,14 @@
+{
+  "device": "MycoPodV1",
+  "channel": "stable",
+  "version": "0.0.0",
+  "build": 0,
+  "notes": "placeholder",
+  "published_at": "1970-01-01T00:00:00Z",
+  "asset": {
+    "name": "mycopod-fw.bin",
+    "sha256": "",
+    "size": 0,
+    "url": ""
+  }
+}
