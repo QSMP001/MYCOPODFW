@@ -1,14 +1,14 @@
 {
   "device": "MycoPodV1",
   "channel": "stable",
-  "version": "0.0.0",
-  "build": 0,
-  "notes": "placeholder",
+  "version": "v0.0.1",
+  "build": 1,
+  "notes": "First OTA Release",
   "published_at": "1970-01-01T00:00:00Z",
   "asset": {
     "name": "mycopod-fw.bin",
-    "sha256": "",
-    "size": 0,
-    "url": ""
+    "sha256": "EE1A55B4F3E178ECB7E15D62678321C0ED5F6762AA802425EF2D339708BA7244",
+    "size": 651312,
+    "url": "https://github.com/QSMP001/MYCOPODFW/releases/tag/v0.0.1"
   }
 }
