@@ -7,8 +7,8 @@
   "published_at": "02.05.2026 | 1:58AM",
   "asset": {
     "name": "mycopod-fw.bin",
-    "bin_sha256": "EE1A55B4F3E178ECB7E15D62678321C0ED5F6762AA802425EF2D339708BA7244",
+    "bin_sha256": "FB7D8162B274927C42233E4EC9BF24369A0CFFE43388A6AFDA2C9939388F534F",
     "size": 651312,
-    "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v0.0.1/mycopod-fw.bin"
+    "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v1.3.1/mycopod-fw.bin"
   }
 }
