@@ -4,11 +4,9 @@
   "version": "v1.3.1",
   "build": "esp32dev",
   "notes": "First OTA Release",
-  "published_at": "02.06.2026 | 12:00AM",
-  "asset": {
-    "name": "mycopod-fw.bin",
-    "bin_sha256": "6A3D5944554C354F74172F278B5B105CBAB6898BC3C8D89436F14B1F3384D268",
-    "size": 1235520,
-    "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v1.3.1/mycopod-fw.bin"
-  }
+  "published_at": "2026-02-06T00:00:00-05:00",
+
+  "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v1.3.1/mycopod-fw.bin",
+  "bin_sha256": "6A3D5944554C354F74172F278B5B105CBAB6898BC3C8D89436F14B1F3384D268",
+  "size": 1235520
 }
