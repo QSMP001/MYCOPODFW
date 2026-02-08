@@ -1,12 +1,12 @@
 {
   "device": "MycoPodV1",
   "channel": "stable",
-  "version": "v2.3.0",
+  "version": "v2.4.0",
   "build": "esp32dev",
   "notes": "OTA Test Release",
-  "published_at": "2026-02-07T00:00:00-06:00",
+  "published_at": "2026-02-07T00:00:00-011:05",
 
-  "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v2.3.0/mycopod-fw.bin",
-  "bin_sha256": "FF260EB689C14FB87D72AEFFD99D5D2E225AE188027B6B7AEAE4E095770D6DC7",
-  "size": 1238320
+  "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v2.4.0/mycopod-fw.bin",
+  "bin_sha256": "E3B3594F14B4011E9F524380A83BC889B0A9D4FD80C86C6C37423C404DFFEAF7",
+  "size": 1238384
 }
