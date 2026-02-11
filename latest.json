@@ -1,12 +1,12 @@
 {
   "device": "MycoPodV1",
   "channel": "stable",
-  "version": "v2.4.3",
+  "version": "v2.4.4",
   "build": "esp32dev",
   "notes": "Grow Test Release - Res Balance",
-  "published_at": "2026-02-10T00:00:00-011:03",
+  "published_at": "2026-02-11T00:00:00-03:22",
 
-  "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v2.4.3/mycopod-fw.bin",
-  "bin_sha256": "A5F42746BB8082F8602B3872957C0B671D615EDD7262F5DEB7F1CBC3706B36AD",
+  "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v2.4.4/mycopod-fw.bin",
+  "bin_sha256": "981E54692FB9390D8EB3059E03F5ABCF38DC36ADDADEF3E00C7E99DDC3BB623B",
   "size": 1238624
 }
