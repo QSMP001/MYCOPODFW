@@ -4,9 +4,9 @@
   "version": "v2.4.4",
   "build": "esp32dev",
   "notes": "Grow Test Release - Res Balance",
-  "published_at": "2026-02-11T00:00:00-03:22",
+  "published_at": "2026-02-11T00:00:00-05:15",
 
   "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v2.4.4/mycopod-fw.bin",
-  "bin_sha256": "981E54692FB9390D8EB3059E03F5ABCF38DC36ADDADEF3E00C7E99DDC3BB623B",
+  "bin_sha256": "346DF65093A1AF6A71EA57E74097380957AD17A8634D1E93067D6FB301622EB2",
   "size": 1238624
 }
