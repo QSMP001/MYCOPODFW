@@ -4,7 +4,7 @@
   "version": "v2.4.7",
   "build": "esp32dev",
   "notes": "Grow Test Release - Res & AER Balance",
-  "published_at": "2026-02-21T00:00:00-11:51",
+  "published_at": "2026-02-22T00:00:00-12:04",
 
   "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v2.4.7/mycopod-fw.bin",
   "bin_sha256": "0F2FDD6CEA1EF790F5DBA871A852FDCF03A2003CA59E87DF6976F96F659A09AA",
