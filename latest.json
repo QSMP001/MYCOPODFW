@@ -1,12 +1,12 @@
 {
   "device": "MycoPodV1",
   "channel": "stable",
-  "version": "v2.5.6",
+  "version": "v2.5.7",
   "build": "esp32dev",
   "notes": "Grow Test Release - Res & AER Balance",
-  "published_at": "2026-02-23T00:00:00-07:17",
+  "published_at": "2026-02-24T00:00:00-12:09",
 
-  "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v2.5.6/mycopod-fw.bin",
-  "bin_sha256": "DC59DAE825B88F3F46F7370C58E48EFEB7EAD0703035F49CC4AD0CBFC0C596EF",
-  "size": 1288720
+  "bin_url": "https://github.com/QSMP001/MYCOPODFW/releases/download/v2.5.7/mycopod-fw.bin",
+  "bin_sha256": "BECD1A607FA5674F6218AB0803B05EA8AE18F26A7611C2E8EBE908BCC1C52AA8",
+  "size": 1288752
 }
