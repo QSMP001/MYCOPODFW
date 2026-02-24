@@ -13,3 +13,7 @@
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Allow OTA firmware bin to be committed
+!bins/
+!bins/mycopod-fw.bin
