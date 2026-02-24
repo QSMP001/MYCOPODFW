@@ -5,7 +5,6 @@
   "build": "esp32dev",
   "notes": "Grow Test Release - Res & AER Balance",
   "published_at": "2026-02-24T00:02:56",
-
   "bin_url": "https://raw.githubusercontent.com/QSMP001/MYCOPODFW/main/bins/mycopod-fw.bin",
   "bin_sha256": "",
   "size": 0
